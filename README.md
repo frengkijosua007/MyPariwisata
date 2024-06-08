@@ -1,30 +1,30 @@
-Maritime Tourism App Developer (Kotlin)
+Aplikasi Wisata Maritim (Kotlin)
 
-Project Description:
-I designed and developed an innovative Maritime Tourism application using Kotlin. The app is designed to provide users with a complete and interactive marine tourism experience, with various features that make it easy for them to explore marine tourism destinations.
+Deskripsi Proyek:
+Saya merancang dan mengembangkan aplikasi Wisata Bahari yang inovatif menggunakan Kotlin. Aplikasi ini dirancang untuk memberikan pengalaman wisata bahari yang lengkap dan interaktif kepada pengguna, dengan berbagai fitur yang memudahkan mereka untuk menjelajahi destinasi wisata bahari.
 
-Main Features:
-- Information Page: Presents detailed information on various marine tourism destinations, including history, activities, and travel tips.
-- Login Page: Secures user access with email and password-based authentication.
-- Map Page: Integration of an interactive map to guide users to their chosen destination.
-- Profile Page: Manages users' personal information and preferences.
-- Registration Page: Intuitive and fast new user registration process.
-- Home Page: An information center with easy navigation to explore the app's features.
+Fitur Utama:
+- Halaman Informasi: Menyajikan informasi rinci tentang berbagai destinasi wisata bahari, termasuk sejarah, aktivitas, dan tips perjalanan.
+- Halaman Login: Mengamankan akses pengguna dengan autentikasi berbasis email dan password.
+- Halaman Peta: Integrasi peta interaktif untuk memandu pengguna ke tujuan yang mereka pilih.
+- Halaman Profil: Mengelola informasi pribadi dan preferensi pengguna.
+- Halaman Pendaftaran: Proses pendaftaran pengguna baru yang intuitif dan cepat.
+- Halaman Beranda: Pusat informasi dengan navigasi yang mudah untuk menjelajahi fitur-fitur aplikasi.
 
-UI/UX Design:
-- Information Page UI/UX: An informative and engaging interface to provide a pleasant reading experience.
-- Login Page UI/UX: Simple and efficient design for a quick login process.
-- Registration Page UI/UX: Easy to fill registration form with a clean and user-friendly interface.
-- Main Page UI/UX: Interactive design that allows users to explore the app easily.
+Desain UI/UX:
+- UI/UX Halaman Informasi: Antarmuka yang informatif dan menarik untuk memberikan pengalaman membaca yang menyenangkan.
+- Halaman Login UI/UX: Desain yang sederhana dan efisien untuk proses login yang cepat.
+- Halaman Pendaftaran UI/UX: Formulir pendaftaran yang mudah diisi dengan antarmuka yang bersih dan ramah pengguna.
+- Halaman Utama UI/UX: Desain interaktif yang memungkinkan pengguna untuk menjelajahi aplikasi dengan mudah.
 
-Demo Video:
-I also created a demo video that shows how the app works and its features, giving a complete overview of the app's functionality.
+Video Demo:
+Saya juga membuat video demo yang menunjukkan cara kerja aplikasi dan fitur-fiturnya, memberikan gambaran lengkap tentang fungsionalitas aplikasi.
 
-Technology Used:
-- Kotlin for robust and efficient Android app development.
-- Firebase for user authentication and data management.
-- Google Maps API for interactive map integration.
-- Material Design for modern and responsive interface design.
+Teknologi yang Digunakan:
+- Kotlin untuk pengembangan aplikasi Android yang kuat dan efisien.
+- Firebase untuk otentikasi pengguna dan manajemen data.
+- Google Maps API untuk integrasi peta interaktif.
+- Material Design untuk desain antarmuka yang modern dan responsif.
 
-Experience Gained:
-This project gave me valuable experience in end-to-end mobile app development, including UI/UX design, front-end and back-end development, and API integration.
+Pengalaman yang Diperoleh:
+Proyek ini memberikan saya pengalaman berharga dalam pengembangan aplikasi mobile end-to-end, termasuk desain UI/UX, pengembangan front-end dan back-end, dan integrasi API.
